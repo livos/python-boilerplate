@@ -1,4 +1,4 @@
-from my_project.math import multiply_two_numbers
+from app.math import multiply_two_numbers
 
 
 def test_multiply_two_numbers():
