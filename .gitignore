@@ -137,4 +137,6 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
-.vscode/\n.idea/
+
+# Visual Studio Code settings
+.vscode/
